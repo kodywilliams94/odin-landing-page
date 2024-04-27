@@ -60,7 +60,7 @@ ul{
 .hero{
     background-color: #1F2937;
     color: #F9FAF8;
-    min-height: 460px;
+    min-height: 500px;
     display: flex;
 }
 .hero h1{
